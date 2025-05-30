@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+langchain
+faiss-cpu
+PyMuPDF
+google-generativeai
+huggingface-hub
+transformers
